@@ -141,7 +141,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
                             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hadoop 由许多元素构成。
                         其最底部是 Hadoop Distributed File System（HDFS），
                         它存储 Hadoop 集群中所有存储节点上的文件。HDFS（对于本文）的上一层是MapReduce 引擎，
-                        该引擎由 JobTrackers 和 TaskTrackers 组成。通过对Hadoop分布式计算平台最核心的分布式文件系统HDFS、MapReduce处理过程
+                        该引擎由 JobTrackers 和 TaskTrackers 组成。通粉放入热个人过对Hadoop分布式计算平台最核心的分布式文件系统HDFS、MapReduce处理过程
                         ，以及数据仓库工具Hive和分布式数据库Hbase的介绍，基本涵盖了Hadoop分布式平台的所有技术核心。<br>
                         <h6>HDFS</h6>
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HDFS
